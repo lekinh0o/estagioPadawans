@@ -1,0 +1,15 @@
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.exe
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.deps.json
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.json
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.dev.json
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.dll
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Json.pdb
+C:\Users\scsil\source\repos\Json\Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.csprojAssemblyReference.cache
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfoInputs.cache
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfo.cs
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CoreCompileInputs.cache
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CopyComplete
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.dll
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.pdb
+C:\Users\scsil\source\repos\Json\Json\obj\Debug\netcoreapp3.1\Json.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGNOGDk5zXkPP9KLVkrXmwaucJ5cr++Z/JwyWPw23WjqY+cQYK4jbrJSSlZJZjFxr4bosgddxH+YqQiRdptQCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scsil\\source\\repos\\Json\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scsil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
